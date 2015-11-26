@@ -1,4 +1,4 @@
-a, b = 0, 1
+a, b = 5, 1
 if a < b:
     print('a ({}) is less than b ({})'.format(a, b))
 else:
